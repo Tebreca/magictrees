@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": { "item": "magictrees:gold_dust" },
+  "result": "minecraft:gold_ingot",
+  "experience": 8,
+  "cookingtime": 50
+}

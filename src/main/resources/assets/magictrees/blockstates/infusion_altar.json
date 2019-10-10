@@ -1,0 +1,19 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "magictrees:block/infusion_altar"
+  },
+  "variants": {
+    "inventory": {
+      "parent":"magictrees:block/infusion_altar_off"
+    },
+    "enabled": {
+      "true": {
+
+      },
+      "false": {
+        "model": "magictrees:block/infusion_altar_off"
+      }
+    }
+  }
+}

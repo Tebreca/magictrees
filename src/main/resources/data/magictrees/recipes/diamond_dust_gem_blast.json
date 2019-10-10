@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": { "item": "magictrees:diamond_dust" },
+  "result": "minecraft:diamond",
+  "experience": 8,
+  "cookingtime": 50
+}

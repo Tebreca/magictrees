@@ -1,0 +1,11 @@
+
+modLoader="javafml" #mandatory
+loaderVersion="[28,)" #mandatory (26 is current forge version)
+[[mods]] #mandatory
+modId="magictrees" #mandatory
+version="1.0" #mandatory
+displayName="Magic Trees" #mandatory
+authors="Tebreca"
+description='''
+Made for MMP live on stream. Adding trees!! cause trees were boring, right?
+'''

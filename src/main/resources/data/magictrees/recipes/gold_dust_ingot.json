@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": { "item": "magictrees:gold_dust" },
+  "result": "minecraft:gold_ingot",
+  "experience": 4,
+  "cookingtime": 100
+}

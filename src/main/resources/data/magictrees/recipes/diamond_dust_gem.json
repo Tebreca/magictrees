@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": { "item": "magictrees:diamond_dust" },
+  "result": "minecraft:diamond",
+  "experience": 4,
+  "cookingtime": 100
+}
